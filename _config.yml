@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Cal Fire SLUGIS Blog
+title: CAL FIRE SLUGIS Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  The team with a dream, map making, saftey and romance
+  Cal Fire San Luis Obispo Unit GIS Blog. Provided on here is information about the county as well as special tutorials for the public.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "slocountyfire.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: slugis3400
@@ -31,6 +31,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+future: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
