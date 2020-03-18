@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-![Cal Fire Logo]{https://drive.google.com/file/d/1AnlSZ2jfeJOHfs1LgNMHthK37SfCNTmk/view?usp=sharing}
